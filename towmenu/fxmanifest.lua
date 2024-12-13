@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Bart (Dingo)'
+author 'Johnny/Dingo'
 description 'Tow Menu for QBCore Framework'
 version '1.0.0'
 
