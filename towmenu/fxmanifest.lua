@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Bart (Dingo)'
-description 'Tow Menu for QBCore'
+description 'Tow Menu for QBCore Framework'
 version '1.0.0'
 
 shared_scripts {

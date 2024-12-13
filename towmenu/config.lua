@@ -1,6 +1,7 @@
 Config = {}
 
+-- List of allowed trailer models
 Config.AllowedTrailers = {
-    `trailer`, -- Replace with the model name of your trailer
-    `cartrailer`
+    `armytrailer`,
+    `pjtrailer` -- Add your trailer models here
 }
